@@ -1,0 +1,19 @@
+git init
+
+git clone git@github.com:address
+
+git status
+
+git branch @branch_name
+
+git checkout @branch_name
+
+git add *
+
+git commit -m "message"
+
+git checkout master
+
+git merge @branch_name
+
+git push origin master
